@@ -1,4 +1,4 @@
-# Arquitetura-de-Aplica-es-Web
+# Arquitetura-de-Aplicações-Web
 
 Execute a extensão SpringBoot e copie o codigo:
 
